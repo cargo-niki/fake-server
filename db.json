@@ -1,0 +1,25 @@
+[{ "username" :"admin",
+    "password" : "adminpw",
+    "firstName" : "niki",
+    "lastName" : "doundi",
+    "type" : "admin", 
+    "deleted" : "false",
+    "token" : "true"
+    },
+ { "username" :"user1",
+    "password" : "user11",
+    "firstName" : "maria",
+    "lastName" : "doundi",
+    "type" : "user", 
+    "deleted" : "false",
+    "token" : "true"
+    },   
+ { "username" :"user2",
+    "password" : "user22",
+    "firstName" : "angelos",
+    "lastName" : "doundis",
+    "type" : "user", 
+    "deleted" : "true",
+    "token" : "true"
+    }  
+]
